@@ -1,0 +1,4 @@
+﻿  LR_3_AISD.cpp
+C:\Users\White\OneDrive\Рабочий стол\LR_3_AISD\LR_3_AISD.cpp(46,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\White\OneDrive\Рабочий стол\LR_3_AISD\LR_3_AISD.cpp(227,20): warning C4101: node: неиспользованная локальная переменная
+  LR_3_AISD.vcxproj -> C:\Users\White\OneDrive\Рабочий стол\LR_3_AISD\Debug\LR_3_AISD.exe
