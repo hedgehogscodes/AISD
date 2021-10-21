@@ -1,11 +1,11 @@
 Additive Divide
-0
-0
+1
 0
 0
 0
 Additive Multiply
-1
+0
+0
 0
 0
 0
@@ -15,6 +15,8 @@ XOR Divide
 1
 0
 XOR Multiply
-1
 0
-1
+0
+0
+0
+0
