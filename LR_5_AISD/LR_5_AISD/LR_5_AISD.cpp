@@ -41,7 +41,6 @@ public:
 	~LinearProbing() { drop(); }
 	bool insert(std::string value);
 	std::pair<int, int> find(std::string value);
-	bool del(std::string value);
 	void drop();
 
 private:
@@ -73,7 +72,6 @@ public:
 	~QudraticProbing() { drop(); }
 	bool insert(std::string value);
 	std::pair<int, int> find(std::string value);
-	bool del(std::string value);
 	void drop();
 
 private:
