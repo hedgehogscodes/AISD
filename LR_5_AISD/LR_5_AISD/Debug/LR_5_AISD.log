@@ -1,9 +1,1 @@
-﻿  LR_5_AISD.cpp
-C:\Users\zjora\Desktop\ASID\LR_5_AISD\LR_5_AISD\LR_5_AISD.cpp(29,16): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
-C:\Users\zjora\Desktop\ASID\LR_5_AISD\LR_5_AISD\LR_5_AISD.cpp(64,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\zjora\Desktop\ASID\LR_5_AISD\LR_5_AISD\LR_5_AISD.cpp(129,60): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
-          with
-          [
-              _Rep=std::chrono::system_clock::rep
-          ]
-  LR_5_AISD.vcxproj -> C:\Users\zjora\Desktop\ASID\LR_5_AISD\Debug\LR_5_AISD.exe
+﻿  LR_5_AISD.vcxproj -> C:\Users\zjora\Desktop\ASID\LR_5_AISD\Debug\LR_5_AISD.exe

@@ -1,0 +1,6 @@
+﻿  LR6_AISD(SORT).cpp
+C:\Users\zjora\Desktop\LR6_AISD(SORT)\LR6_AISD(SORT)\LR6_AISD(SORT).cpp(123,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zjora\Desktop\LR6_AISD(SORT)\LR6_AISD(SORT)\LR6_AISD(SORT).cpp(200,29): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zjora\Desktop\LR6_AISD(SORT)\LR6_AISD(SORT)\LR6_AISD(SORT).cpp(223,29): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zjora\Desktop\LR6_AISD(SORT)\LR6_AISD(SORT)\LR6_AISD(SORT).cpp(99,10): warning C4101: buffer: неиспользованная локальная переменная
+  LR6_AISD(SORT).vcxproj -> C:\Users\zjora\Desktop\LR6_AISD(SORT)\Debug\LR6_AISD(SORT).exe
